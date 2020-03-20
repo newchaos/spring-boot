@@ -1,4 +1,5 @@
 // DependencyManagementPluginActionIntegrationTests-helpfulErrorWhenVersionlessDependencyFailsToResolve.gradle
+//helpfulErrorWhenVersionlessDependencyFailsToResolve.gradle-
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '{version}'
