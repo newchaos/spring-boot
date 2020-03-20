@@ -1,3 +1,5 @@
+// ApplicationPluginActionIntegrationTests-applicationNameCanBeUsedToCustomizeDistributionName.gradle
+
 plugins {
 	id 'java'
 	id 'application'
