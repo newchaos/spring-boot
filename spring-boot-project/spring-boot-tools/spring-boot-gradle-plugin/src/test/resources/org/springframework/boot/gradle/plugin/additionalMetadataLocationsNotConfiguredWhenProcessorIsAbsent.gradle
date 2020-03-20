@@ -1,3 +1,4 @@
+// JavaPluginActionIntegrationTests-additionalMetadataLocationsNotConfiguredWhenProcessorIsAbsent.gradle
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '{version}'
