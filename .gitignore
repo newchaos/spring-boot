@@ -36,3 +36,8 @@ dump.rdb
 transaction-logs
 .flattened-pom.xml
 spring-boot-tests/
+gradlew
+gradle/
+gradlew.bat
+
+
